@@ -22,7 +22,7 @@ import net.skhu.service.UserService;
 
 
 @RestController
-public class Controller {
+public class TestController {
 
     @Autowired
     UserService userService;
