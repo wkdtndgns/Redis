@@ -31,7 +31,6 @@ public class TestController {
     CountService countService;
 
 
-
     /**
      * 학번으로 조회
      * @param id
