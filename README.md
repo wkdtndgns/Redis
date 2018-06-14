@@ -15,7 +15,8 @@
   
  # 사용 기술
  <br/>
-![redis](https://user-images.githubusercontent.com/24237454/41399354-0cdad620-6ff5-11e8-98a3-4535c64425f5.PNG)
+ 
+![redis](https://user-images.githubusercontent.com/24237454/41399391-24b09a8c-6ff5-11e8-9d6f-89bdd96b58d9.PNG)
 
 
 - 빨간색 : 소스코드, 문서 등을 저장한 공간소와 배포 서버 안내.
